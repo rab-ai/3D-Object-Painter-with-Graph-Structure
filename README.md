@@ -1,9 +1,9 @@
-# 3D-Object-Painter-with-Graph-Structure
+# 3D-Object-Painter-with-Graph-Structure\\
 3D Object Painter created using by MeshGraph, Binary Heap, Breadth-First
-Search and Dijkstra Shortest Path Algorithm implementations. 
+Search and Dijkstra Shortest Path Algorithm implementations. \\
 Binary Heap is used as STL Heap data structure. BinaryHeap.cpp has the necessary functions such as Add, PopHeap, ChangePriority, HeapSize and those functions help the coloring proccess using and updating the weight of the edges. MeshGraph.cpp has the important functions to implement Dijkstra Shortest Path Algorithm and Breadth-First
-Search. MeshGraph.cpp forms edges and paints specific edges and nodes. MeshGraph uses adjacency list style of implementation with slight differences.
-Here are the examples of 3D painted objects from different angles.
+Search. MeshGraph.cpp forms edges and paints specific edges and nodes. MeshGraph uses adjacency list style of implementation with slight differences.\\
+Here are the examples of 3D painted objects from different angles.\\
 A Face:
 ![2023-03-12_03-30-36](https://user-images.githubusercontent.com/89254644/224518272-556bb51d-7e1e-47f5-b0cd-30ee5def16a8.png)
 ![2023-03-12_03-31-27](https://user-images.githubusercontent.com/89254644/224518277-318f6f17-4ed2-4982-9cd6-983995c5746d.png)
