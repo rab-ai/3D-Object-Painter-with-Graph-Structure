@@ -19,3 +19,6 @@ On Linux type: " ./CENG-213-OBJ-Loader "path_to_.obj_file" "path_to_color_file" 
 On Windows type: " ./ObjViewer.exe "path_to_.obj_file" "path_to_color_file" t" (or q) without any quotes.
 
 While using these programs, you should be in the directory that the program is on (from the terminal). Use "q" (third argument) for plane.obj and plane-low.obj files, and "t" for facem-low2.obj and man-low.obj files (again no quotes).
+
+On Windows type it should work on any recent windows platform. (It may require visual studio redistributables which can be downloaded from the link:https://aka.ms/vs/17/release/vc_redist.x64.exe)
+
