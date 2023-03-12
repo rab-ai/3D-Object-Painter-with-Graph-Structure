@@ -1,9 +1,9 @@
-# 3D-Object-Painter-with-Graph-Structure\\
+# 3D-Object-Painter-with-Graph-Structure\
 3D Object Painter created using by MeshGraph, Binary Heap, Breadth-First
-Search and Dijkstra Shortest Path Algorithm implementations. \\
+Search and Dijkstra Shortest Path Algorithm implementations. \
 Binary Heap is used as STL Heap data structure. BinaryHeap.cpp has the necessary functions such as Add, PopHeap, ChangePriority, HeapSize and those functions help the coloring proccess using and updating the weight of the edges. MeshGraph.cpp has the important functions to implement Dijkstra Shortest Path Algorithm and Breadth-First
-Search. MeshGraph.cpp forms edges and paints specific edges and nodes. MeshGraph uses adjacency list style of implementation with slight differences.\\
-Here are the examples of 3D painted objects from different angles.\\
+Search. MeshGraph.cpp forms edges and paints specific edges and nodes. MeshGraph uses adjacency list style of implementation with slight differences.\
+Here are the examples of 3D painted objects from different angles.\
 A Face:
 ![2023-03-12_03-30-36](https://user-images.githubusercontent.com/89254644/224518272-556bb51d-7e1e-47f5-b0cd-30ee5def16a8.png)
 ![2023-03-12_03-31-27](https://user-images.githubusercontent.com/89254644/224518277-318f6f17-4ed2-4982-9cd6-983995c5746d.png)
@@ -16,6 +16,6 @@ A plane:
 
 Usage:
 On Linux type: " ./CENG-213-OBJ-Loader "path_to_.obj_file" "path_to_color_file" t" (or q) without any quotes.
-On Windows type: " ./ObjViewer.exe "path_to_.obj_file" "path_to_color_file" t" (or q) without any quotes.
+On Windows type: " ./ObjViewer.exe "path_to_.obj_file" "path_to_color_file" t" (or q) without any quotes.\
 
 While using these programs, you should be in the directory that the program is on (from the terminal). Use "q" (third argument) for plane.obj and plane-low.obj files, and "t" for facem-low2.obj and man-low.obj files (again no quotes).
