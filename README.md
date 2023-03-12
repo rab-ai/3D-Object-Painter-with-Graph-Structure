@@ -1,4 +1,4 @@
-# 3D-Object-Painter-with-Graph-Structure\
+# 3D-Object-Painter-with-Graph-Structure
 3D Object Painter created using by MeshGraph, Binary Heap, Breadth-First
 Search and Dijkstra Shortest Path Algorithm implementations. \
 Binary Heap is used as STL Heap data structure. BinaryHeap.cpp has the necessary functions such as Add, PopHeap, ChangePriority, HeapSize and those functions help the coloring proccess using and updating the weight of the edges. MeshGraph.cpp has the important functions to implement Dijkstra Shortest Path Algorithm and Breadth-First
@@ -16,6 +16,6 @@ A plane:
 
 Usage:
 On Linux type: " ./CENG-213-OBJ-Loader "path_to_.obj_file" "path_to_color_file" t" (or q) without any quotes.
-On Windows type: " ./ObjViewer.exe "path_to_.obj_file" "path_to_color_file" t" (or q) without any quotes.\
+On Windows type: " ./ObjViewer.exe "path_to_.obj_file" "path_to_color_file" t" (or q) without any quotes.
 
 While using these programs, you should be in the directory that the program is on (from the terminal). Use "q" (third argument) for plane.obj and plane-low.obj files, and "t" for facem-low2.obj and man-low.obj files (again no quotes).
